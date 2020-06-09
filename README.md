@@ -1,2 +1,2 @@
-# circleci-demo
-Circle Ci React Example demo
+# travisci-demo
+Travis Ci React Example demo
